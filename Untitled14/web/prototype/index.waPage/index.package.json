@@ -3,5 +3,23 @@
 	"type": "page",
 	"version": "1.0.0",
 	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"package": "Button"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "prototype/application.css",
+			"path": "WEBFOLDER"
+		}
 	]
 }
