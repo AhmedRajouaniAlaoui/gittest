@@ -13,7 +13,14 @@
 			"type": "widget"
 		},
 		{
+			"id": "Widget/login",
+			"type": "widget"
+		},
+		{
 			"package": "default"
+		},
+		{
+			"package": "ListView"
 		},
 		{
 			"file": "styles/index.css"
